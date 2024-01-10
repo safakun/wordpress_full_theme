@@ -10,6 +10,9 @@ https://www.youtube.com/watch?v=GZe4Typha3s
 ГЕНЕРАТОР ШАБЛОНОВ 
 https://underscores.me/  
 
+Настройки wordpress -шпаргалка
+https://wp-kama.ru/handbook/cheatsheet
+
 Connect to your hosting account with FTP or File Manager.
 Find the folder with your WordPress files and open the wp-config.php file.
 At the bottom of the wp-config.php file, above the line that says /* That's all, stop editing! Happy publishing. */, add the following lines of code:
